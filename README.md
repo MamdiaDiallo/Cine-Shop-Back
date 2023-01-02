@@ -11,7 +11,7 @@ Ciné-Shop est un site internet kiosque divisé en deux parties, une partie vent
 Exécuter dans un système de base de données relationnelle
 ```bash
   cd Cine-Shop
-  cd Data
+  cd src
   data_cine_shop.sql
 
 ## Compilation  du Back End NestJS 'http://localhost:3003/film'
